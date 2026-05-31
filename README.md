@@ -17,7 +17,7 @@ and masquerades as a network utility through its versioning and application mani
 
 Read more at:
 
-* \[Crafting a Loader: My First Experience in Malware Development](https://ashtrace.github.io/posts/my\_first\_loader/)
-* \[Stripping the Binary Clean: Hiding the malware indicators](https://ashtrace.github.io/posts/stripping\_iocs/)
-* \[Against Runtime Analysis: Sandboxes, Syscalls and Hooks](https://ashtrace.github.io/posts/sandboxes\_syscalls\_and\_hooks/)
+* [Crafting a Loader: My First Experience in Malware Development](https://ashtrace.github.io/posts/my\_first\_loader/)
+* [Stripping the Binary Clean: Hiding the malware indicators](https://ashtrace.github.io/posts/stripping\_iocs/)
+* [Against Runtime Analysis: Sandboxes, Syscalls and Hooks](https://ashtrace.github.io/posts/sandboxes\_syscalls\_and\_hooks/)
 
